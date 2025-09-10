@@ -30,8 +30,8 @@ jobs:
     - name: Configure Git
       run: |
         # Use your GitHub email to ensure commits count on your profile
-        git config --local user.email "adityatiwari342005@gmail.com"
-        git config --local user.name "ADITYATIWARI342005"
+        git config --local user.email "phoenixcodeforces@gmail.com"
+        git config --local user.name "phoenixcodeforces-blip"
         # Debug: Show current branch and configuration
         echo "=== Git Configuration ==="
         echo "Current Branch: $(git branch --show-current)"
