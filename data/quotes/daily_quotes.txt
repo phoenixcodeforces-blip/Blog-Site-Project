@@ -25,3 +25,4 @@
 [2025-09-14 20:45:59] Code never lies, comments sometimes do. - Ron Jeffries
 [2025-09-14 22:38:12] It's not a bug – it's an undocumented feature. - Anonymous
 [2025-09-15 10:46:17] The only constant in the technology industry is change. - Marc Benioff
+[2025-09-15 14:51:08] Code is like humor. When you have to explain it, it's bad. - Cory House
