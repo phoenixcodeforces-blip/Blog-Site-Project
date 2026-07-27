@@ -1530,3 +1530,4 @@
 [2026-07-27 06:46:27] Code never lies, comments sometimes do. - Ron Jeffries
 [2026-07-27 11:55:26] First, solve the problem. Then, write the code. - John Johnson
 [2026-07-27 18:05:53] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-07-27 21:44:50] It's not a bug – it's an undocumented feature. - Anonymous
