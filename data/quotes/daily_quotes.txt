@@ -1624,3 +1624,4 @@
 [2026-08-17 16:55:46] The only constant in the technology industry is change. - Marc Benioff
 [2026-08-17 18:56:05] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
 [2026-08-18 07:02:19] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
+[2026-08-18 09:06:19] The only way to learn a new programming language is by writing programs in it. - Dennis Ritchie
