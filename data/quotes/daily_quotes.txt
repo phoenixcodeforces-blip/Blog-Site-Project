@@ -1706,3 +1706,4 @@
 [2026-09-03 21:00:59] The most damaging phrase in the language is 'We've always done it this way!' - Grace Hopper
 [2026-09-04 05:27:59] Code never lies, comments sometimes do. - Ron Jeffries
 [2026-09-04 08:05:33] Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon
+[2026-09-04 16:21:47] It's not a bug – it's an undocumented feature. - Anonymous
